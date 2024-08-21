@@ -35,7 +35,7 @@ def create_test_prompt(data_row):
 
 st.title("Chatbot for tymeline")
 
-user_input = st.text_area("Enter text to classify:")
+user_input = st.text_area("Enter your query regarding tymeline")
 
 if st.button("Predict"):
     if user_input:
