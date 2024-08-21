@@ -8,7 +8,7 @@
 ## Setup to run the chatbot
 Clone the repositry from this link
 ```bash
-git clone 
+git clone https://github.com/csoham96/rag
 ```
 Install the environment ,ensure you have miniconda or anaconda install
 ```bash
